@@ -8,3 +8,6 @@ Utilizarei esse espaço para minha organização e para compartilhar os meus pro
 
 Você pode entrar em contato comigo pelo meu gmail
 00001101417432sp@al,educacao.sp.gov.br
+
+
+Este trabalho está licenciado sob CC BY 4.0 
